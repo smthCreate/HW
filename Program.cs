@@ -76,3 +76,4 @@ Console.WriteLine("Введите число ниже");
 int n = Convert.ToInt32(Console.ReadLine());
 
 Cubs(n); */
+
